@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-with-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Breathe With Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-with-me/) |
+| **Get License** | [License this song: Breathe With Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-with-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull me closer by the fading fire
+> Let the shadows slowly paint the room
+> I can feel the pull of your desire
+> Lost inside this midnight sweet perfume
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
